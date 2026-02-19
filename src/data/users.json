@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "address": "123 Maple St, Springfield, IL",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@test.com",
+    "address": "456 Oak St, Springfield, IL",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@test.com",
+    "address": "123 Main St, Omaha, NE",
+    "phone": "555-8765"
+  },
+  {
+    "id": 4,
+    "name": "Nehil",
+    "email": "nehil@test.com",
+    "address": "Nashik",
+    "phone": "84668354151"
+  },
+  {
+    "id": 5,
+    "name": "Aish",
+    "email": "aish@teest.com",
+    "address": "Pune",
+    "phone": "238745y3298"
+  },
+  {
+    "id": 6,
+    "name": "Sam",
+    "email": "sam82@test.com",
+    "address": "CCM Nashik",
+    "phone": "123456546"
+  }
+]

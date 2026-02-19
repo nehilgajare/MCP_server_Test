@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server:build": "tsc",
-    "server:watch": "tsc --watch",
+    "server:build:watch": "tsc --watch",
     "server:dev": "tsx src/server.ts",
     "server:inspect": "set DANGEROUSLY_OMIT_AUTH=true && npx @modelcontextprotocol/inspector npm run server:dev"
   },
@@ -21,6 +21,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.26.0"
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "zod": "^4.3.6"
   }
 }
